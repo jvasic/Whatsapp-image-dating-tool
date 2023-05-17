@@ -1,5 +1,5 @@
 # Whatsapp image dater
-A python script to add dates from the name to the metadata of your Whatsapp images. Made from personal need, with the help of Stackoverflow.
+A python script to add dates to your Whatsapp images. Made from personal need, with the help of Stackoverflow.
 
 HOW IT WORKS:
 Whatsapp saves image dates in the file name and not in the metadata. This script adds the image date from its name to its metadata.
